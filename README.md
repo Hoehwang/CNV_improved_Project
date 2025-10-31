@@ -1,4 +1,4 @@
-# Improved Methodology of CNV Detection
+# Improved CNV Detection Project
 
 ## 개요
 
