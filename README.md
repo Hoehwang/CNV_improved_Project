@@ -61,7 +61,3 @@ CNV_improved_Project/
 
 - DiGeorge 증후군: 22번 염색체 q11.2 영역의 결실과 관련
 - CNV 탐지: Copy Number Variation 탐지를 통해 유전적 변이 검출
-- SNP 데이터: Single Nucleotide Polymorphism 배열 데이터 활용
-
----
-
