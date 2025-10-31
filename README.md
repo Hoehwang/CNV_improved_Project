@@ -1,4 +1,4 @@
-# CNV 탐지 Improved Methodology - DiGeorge 증후군을 중심으로
+# Improved Methodology of CNV Detection
 
 ## 개요
 
